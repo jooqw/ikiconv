@@ -5,8 +5,8 @@ IKI/IKI2 converter that works with FFmpeg, SoX and JPSXDEC
 - Use `sudo pacman -S ffmpeg`and `sudo pacman -S sox` to install everything
 - Name the jpsxdec folder exactly `jpsxdec_v2.0`
 
-### For windows:
-#### Requirements:
+## Requirements for windows:
+
 If you are going to use the release build, skip the requirements
 -   Python 3
 -   FFmpeg 6.0
