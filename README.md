@@ -1,5 +1,6 @@
 # ikiconv
 IKI/IKI2 converter that works with FFmpeg, SoX and JPSXDEC
+thanks to @Timkho for some fixes on the python script
 
 ## Requirements for linux:
 - Use `sudo pacman -S ffmpeg`and `sudo pacman -S sox` to install everything
