@@ -3,6 +3,7 @@ IKI/IKI2 converter that works with FFmpeg, SoX and JPSXDEC
 
 ## Requirements for linux:
 - Use `sudo pacman -S ffmpeg`and `sudo pacman -S sox` to install everything
+- Name the jpsxdec folder exactly `jpsxdec_v2.0`
 
 ### For windows:
 #### Requirements:
